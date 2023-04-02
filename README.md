@@ -1,2 +1,2 @@
 # FocusFrenzy
-A website that helps individuals with concentration. The term "focus" refers to the ability to concentrate one's attention and effort on a particular task or goal. "Frenzy" is a state of intense or uncontrolled activity or excitement.
+A website that helps individuals with concentration. The term "focus" refers to the ability to concentrate one's attention and effort on a particular task or goal. "Frenzy" is a state of intense or uncontrolled activity or excitement. When combined, "FocusFrenzy" can suggest a state of heightened concentration or focus, where the individual is completely absorbed in their task or goal.
